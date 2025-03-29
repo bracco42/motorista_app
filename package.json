@@ -7,6 +7,7 @@
     "start": "node index.js",
     "build": "tsc",
     "test": "jest"
+  }
 {
   "dependencies": {
     "next": "^15.1.7",
