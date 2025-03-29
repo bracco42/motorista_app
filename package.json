@@ -1,14 +1,4 @@
 {
-  "name": "motorista_app",
-  "version": "1.0.0",
-  "description": "Aplicativo para motoristas de APP",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "build": "tsc",
-    "test": "jest"
-  }
-{
   "dependencies": {
     "next": "^15.1.7",
     "react": "^19.0.0",
